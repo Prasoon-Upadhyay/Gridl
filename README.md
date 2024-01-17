@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gridl is hosted on
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://65a832d0be25d500884067ee--luxury-pasca-6747bf.netlify.app/
 
 ## Available Scripts
 
